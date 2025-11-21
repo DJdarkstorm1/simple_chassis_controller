@@ -345,12 +345,12 @@
 
   
 
-[rm_description]: https://github.com/gdut-dynamic-x/rm_description
+- [rm_description](https://github.com/gdut-dynamic-x/rm_description)
 
   
 
-[simple_chassis_controller]: https://github.com/gdut-dynamic-x/simple_chassis_controller
+- [simple_chassis_controller](https://github.com/gdut-dynamic-x/simple_chassis_controller)
 
   
 
-[catkin-tool]: https://catkin-tools.readthedocs.io/
+- [catkin-tool](https://catkin-tools.readthedocs.io/)
